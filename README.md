@@ -1,4 +1,4 @@
-# 🏫 INFT-41000-Assignment-2
+# 🏫 INFT-41000-Assignment-3
 ## ▶️ How to Run
 ### 🐳 Using Docker
 #### 🪜 Steps

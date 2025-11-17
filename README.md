@@ -47,6 +47,4 @@ Go to any browser of choice and go to :
 
 ### From Cloud Instances
 #### Amazon ECS Instance
-
-#### Amazon EC2 Instance
-
+<http://107.23.13.27:8501/> 

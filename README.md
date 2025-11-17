@@ -45,3 +45,8 @@ streamlit run app.py
 Go to any browser of choice and go to :
 <http://localhost:8501> 
 
+### From Cloud Instances
+#### Amazon ECS Instance
+
+#### Amazon EC2 Instance
+
